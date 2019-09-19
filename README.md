@@ -1,11 +1,10 @@
-# bodyfit-front
+# react-app
 
 ## Local development environment
-run build.sh to initilize docker container with node
 
-Project available at http://localhost:9001
+Project available at https://localhost:9002
 
 command examples:
-1. docker exec -it bodyfit-front-node npm install
+1. npm install
 
-2. docker exec -it bodyfit-front-node npm run build
+2. npm run dev
